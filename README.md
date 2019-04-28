@@ -15,6 +15,6 @@
 
 ## 功能
 
-- :white_check_mark: **解决了 fix错位问题
-- :white_check_mark: **解决了 内容太长样式错乱
--
+- :white_check_mark: 解决了 fix错位问题
+- :white_check_mark: 解决了 内容太长样式错乱
+- :white_check_mark: 增加了 超出隐藏、及显示title
