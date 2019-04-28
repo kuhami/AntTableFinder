@@ -10,7 +10,7 @@
 ![](https://raw.githubusercontent.com/kuhami/AntTableFinder/master/image/antTable.jpeg)
 
 - [AntTableFinder 浏览地址](https://8yjylx6rn9.codesandbox.io/)
-- [AntTableFinder 文档地址](https://codesandbox.io/s/8yjylx6rn9)
+- [AntTableFinder 代码地址](https://codesandbox.io/s/8yjylx6rn9)
 
 
 ## 功能
