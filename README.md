@@ -15,4 +15,6 @@
 
 ## 功能
 
-- :white_check_mark: **UI 测试**：自动化测试保障前端产品质量
+- :white_check_mark: **解决了 fix错位问题
+- :white_check_mark: **解决了 内容太长样式错乱
+-
